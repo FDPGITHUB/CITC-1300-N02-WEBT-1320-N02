@@ -1,0 +1,141 @@
+/*Global Styles*/
+body {
+  background-color: black;  
+}
+
+
+img {
+    display: block;
+    margin: 0 auto;
+    width: 100%;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    width: 100%;
+}
+
+a {
+    color: #F2055C;
+}
+
+a:hover {
+    color: #F2055C;
+    text-decoration: none;
+}
+
+#container {
+    background-color: black;
+    width: 75%;
+    margin: 20px auto;
+}
+
+
+h1, h2, h3 {
+    text-align: center;
+    color: #F2055C;
+}
+
+main img {
+    display:block;
+    width: 50%;
+    margin: 30px auto;
+    }
+
+    /* Remaining Styles */
+
+    nav {
+        background-color: black;
+        padding: 5 px 0;
+        text-align: right;
+    }
+
+ nav ul {
+    list-style-type: none;
+    padding: 0%;
+ }   
+
+ nav li {
+    display: inline-block;
+
+ }
+
+ nav li a {
+    color: #BF0449;
+    margin-right: 30px;
+    text-decoration: none;
+    font-size: 25px;
+    font-weight: bold;
+ }
+ nav li a:hover {
+    color: #F2055C;
+ }
+ 
+ header h1 {
+    font size: 75px;
+    color: #F2055C;
+ }
+
+ main {
+    padding: 20px;
+ }
+
+ main img {
+    width: 60%;
+ }
+
+ header h5 {
+    width: 20%;
+ }
+
+ #lower {
+    display: flex;
+ }
+
+ .col {
+    padding: 10px;
+    margin: 10px;
+    border: #BF0449;
+    width: 33.33%;
+ }
+
+ footer {
+    color: aliceblue;
+    padding: 40px 0;
+    text-align: center;
+ }
+
+ hr { 
+    width: 75%;
+ }
+
+ .button {
+    display: block;
+    background-color: #BF0449;
+    width: 125px;
+    height: 30px;
+    color: azure;
+    text-decoration: none;
+    text-align: center;
+    line-height: 35px;
+    margin-top: 10px;
+    border-radius: 10px;
+    margin-left: auto;
+    margin-right: auto;
+ }
+
+ .button:hover {
+    color: #F2055C;
+ }
+
+ p {
+    color: aliceblue;
+    text-align: center;
+ }
+
+ #MainLogo image {
+    width: 25%;
+    height: 20%;
+    margin-left: auto;
+ }
