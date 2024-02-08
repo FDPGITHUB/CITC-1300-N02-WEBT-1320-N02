@@ -10,10 +10,8 @@ img {
     width: 100%;
 }
 
-img {
-    display: block;
-    margin: 0 auto;
-    width: 100%;
+#MainLogo {
+   width: 100px;
 }
 
 a {
@@ -33,7 +31,8 @@ a:hover {
 
 
 h1, h2, h3 {
-    text-align: center;
+   line-height: 80px;
+   text-align: center;
     color: #F2055C;
 }
 
@@ -47,8 +46,9 @@ main img {
 
     nav {
         background-color: black;
-        padding: 5 px 0;
         text-align: right;
+        margin-left: 75px;
+        line-height: 60px;
     }
 
  nav ul {
@@ -67,13 +67,14 @@ main img {
     text-decoration: none;
     font-size: 25px;
     font-weight: bold;
+    margin: 0 50px;
  }
  nav li a:hover {
     color: #F2055C;
  }
  
  header h1 {
-    font size: 75px;
+    font-size: 75px;
     color: #F2055C;
  }
 
@@ -113,14 +114,13 @@ main img {
  .button {
     display: block;
     background-color: #BF0449;
-    width: 125px;
-    height: 30px;
+    width: 135px;
+    height: 35px;
     color: azure;
     text-decoration: none;
     text-align: center;
     line-height: 35px;
     margin-top: 10px;
-    border-radius: 10px;
     margin-left: auto;
     margin-right: auto;
  }
@@ -138,4 +138,8 @@ main img {
     width: 25%;
     height: 20%;
     margin-left: auto;
+ }
+
+ #navbar {
+   display: flex;
  }
