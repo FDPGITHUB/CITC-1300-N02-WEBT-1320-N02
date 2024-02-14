@@ -221,7 +221,7 @@ h1, h2, h3 {
    line-height: 40px;
    text-align: center;
     color: #F2055C;
-    font-size: 50px:
+    font-size: 50px;
 }
 
 header h1{
@@ -278,8 +278,9 @@ footer {
 
 /* Desktop Styles */
 
-@media(min-width: 1024px) {
-{nav
+@media(min-width: 1024px) 
+{
+nav{
    background-color: black;
    padding: 10px;
 }
@@ -324,7 +325,7 @@ main {
       margin-left: -140px auto;
       width: 70px;
       height: 10px;
-   }
+   
 }
 
 h1, h2, h3 {
@@ -383,5 +384,6 @@ footer {
    color: aliceblue;
    padding: 40px 0;
    text-align: center;
+}
 }
 }
