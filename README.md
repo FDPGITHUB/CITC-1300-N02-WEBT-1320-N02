@@ -5,4 +5,8 @@
 <li><a href="html5_intro_css/index.html" target="_blank"> Photography Spotlight</a></li>
 <li><a href="adv.css/index.html" target="_blank"> FDP PortfolioV2</a>
 </li>
+<li><a href="responsive/index.html" target="_blank">Responsive Design</a>
+</li>
+<li><a href="vscode/FinalProject/index.html" target="_blank">FinalProject</a>
+</li>
 </ul>

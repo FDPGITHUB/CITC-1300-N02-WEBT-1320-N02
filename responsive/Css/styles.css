@@ -14,6 +14,28 @@ body {
    padding: 10px;
 }
 
+@font-face {
+   font-family: myFont;
+   src: url(BebasFont.ttf);
+}
+@font-face {
+   font-family: LM;
+   src: url(LemonMilk.otf);
+}
+
+h1 {
+   font-family: LM;
+}
+h2 {
+   font-family: myFont;
+}
+h3 {
+   font-family: myFont;
+}
+ul{
+   font-family: myFont;
+}
+
 header h5 {
    width: 20%;
 }
@@ -25,6 +47,7 @@ header h5 {
    height: 35px;
    color: azure;
    text-decoration: none;
+   font-family: myFont;
    text-align: center;
    line-height: 35px;
    margin-top: 10px;
@@ -41,15 +64,15 @@ a {
 }
 
 a:hover {
-   color: #F2055C;
+   color: black;
    text-decoration: none;
 }
 
 ul {
-   color: #BF0449;
+   color: black;
    text-align: justify;
    ul :hover {
-      color: #F2055C;
+      color: black;
    }
    list-style: none;
 }
