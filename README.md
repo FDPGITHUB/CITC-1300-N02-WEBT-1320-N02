@@ -7,6 +7,6 @@
 </li>
 <li><a href="responsive/index.html" target="_blank">Responsive Design</a>
 </li>
-<li><a href="FinalProject/index.html" target="_blank">FinalProject</a>
+<li><a href="FinalProject/FinalProject/index.html" target="_blank">FinalProject</a>
 </li>
 </ul>
