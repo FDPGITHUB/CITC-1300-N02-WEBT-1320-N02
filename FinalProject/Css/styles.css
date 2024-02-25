@@ -2,7 +2,7 @@
 img {
    display: block;
    margin: 0 auto;
-   width: 100%;
+   width: 50%;
 }
 
 body {
@@ -30,6 +30,10 @@ body {
    font-family: Letterpress;
    src: url(Letterpress.ttf);
 }
+@font-face {
+   font-family: AppleG;
+   src: url(AppleG.ttf);
+}
 
 h1 {
    font-family: GoBold;
@@ -50,6 +54,10 @@ header h5 {
 
 p {font-family: Letterpress
 ;}
+
+footer{
+   font-family: AppleG;
+}
 
 .button {
    display: block;
@@ -75,7 +83,7 @@ a {
 }
 
 a:hover {
-   color: black;
+   color: #F2055C;
    text-decoration: none;
 }
 
@@ -123,7 +131,7 @@ text-decoration: none;
 }
 
 nav li a:hover{
-   background-color: #F2055C;
+   background-color: black;
 }
 
 main {
@@ -231,7 +239,7 @@ text-decoration: none;
 }
 
 nav li a:hover{
-   background-color: #F2055C;
+   background-color: black;
 }
 
 main {
@@ -342,7 +350,7 @@ text-decoration: none;
 }
 
 nav li a:hover{
-   background-color: #F2055C;
+   background-color: black;
 }
 
 main {
